@@ -1,0 +1,7 @@
+.gradient-text-box {
+    background: linear-gradient(to right, #90D9E0, #5460E6);
+    background-clip: text; 
+    color: transparent; 
+    display: flex;
+    justify-content: space-between;
+}
